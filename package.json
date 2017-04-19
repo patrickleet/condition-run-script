@@ -52,7 +52,7 @@
     "test:suite": "nyc tap --no-cov .test/{scenarios,specs}/*.js",
     "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "directories": {
     "test": "test"
   },
